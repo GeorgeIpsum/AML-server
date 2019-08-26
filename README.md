@@ -1,2 +1,2 @@
-# AML-server
+# graphql-express-server
 graphql server for aml
